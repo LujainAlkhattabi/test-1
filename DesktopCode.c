@@ -4,7 +4,8 @@
 int main(){
 
 	printf("Intro to Github Workshop !");
-	printf("RUUUUUN");
+	int x=1;
+
 
 	return 0;
 }
